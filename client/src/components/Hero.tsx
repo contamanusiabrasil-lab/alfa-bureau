@@ -119,7 +119,7 @@ export function Hero() {
               <div className="absolute -top-4 -right-4 h-full w-full rounded-lg border border-gold-500/30" aria-hidden="true" />
               <div className="relative overflow-hidden rounded-lg shadow-[0_30px_60px_-20px_oklch(0_0_0/50%)]">
                 <img
-                  src="/manus-storage/hero-office_5ee26737.jpg"
+                  src="/images/hero.jpg"
                   alt="Escritório moderno da Alfa Bureau ao entardecer em Itajubá"
                   className="aspect-[4/5] w-full object-cover"
                   loading="eager"

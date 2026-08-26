@@ -41,7 +41,7 @@ export function Contact() {
       {/* Textura de fundo */}
       <div className="absolute inset-0 opacity-40" aria-hidden="true">
         <img
-          src="/manus-storage/cta-texture_3997e911.jpg"
+          src="/images/textura.jpg"
           alt=""
           className="h-full w-full object-cover"
           loading="lazy"

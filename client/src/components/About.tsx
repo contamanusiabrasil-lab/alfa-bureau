@@ -29,7 +29,7 @@ export function About() {
           <Reveal className="relative">
             <div className="absolute -bottom-4 -left-4 h-full w-full rounded-lg bg-navy-950" aria-hidden="true" />
             <img
-              src="/manus-storage/about-team_93b4eed2.jpg"
+              src="/images/equipe.jpg"
               alt="Equipe da Alfa Bureau revisando documentos com cliente"
               className="relative aspect-[3/2] w-full rounded-lg object-cover shadow-xl"
               loading="lazy"

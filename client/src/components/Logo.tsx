@@ -12,8 +12,8 @@ interface LogoProps {
 export function Logo({ variant = "dark", compact = false }: LogoProps) {
   const src =
     variant === "light"
-      ? "/manus-storage/alfa-logo-light_13c10cdb.png"
-      : "/manus-storage/alfa-logo-dark_b2399d92.png";
+      	? "/images/logo-light.png"
+	: "/images/logo-dark.png";
   return (
     <a href="#inicio" className="flex items-center gap-3 group" aria-label="Alfa Bureau — Início">
       <img
